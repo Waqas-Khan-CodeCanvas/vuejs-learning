@@ -1,4 +1,5 @@
 <template>
+  <h1>hello Zaryab khan</h1>
   <h2>hello world Contact</h2>
 </template>
 <script>

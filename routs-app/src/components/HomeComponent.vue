@@ -1,4 +1,5 @@
 <template>
+  <h1>hello Waqas khan</h1>
   <h2>hello world home</h2>
 </template>
 <script>
